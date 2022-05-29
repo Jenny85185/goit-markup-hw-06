@@ -730,7 +730,7 @@ img {
   flex-direction: row;
   margin-top: 20px;
 }
-.form-email {
+.form-email{
   width: 358px;
   margin-right: 12px;
   border: 1px solid rgba(255, 255, 255, 0.3);
